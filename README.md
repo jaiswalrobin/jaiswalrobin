@@ -7,6 +7,10 @@
 Frontend Engineer (SDE-2) at Tekion. I build user-facing web apps — and I
 like going deep into the systems behind them: APIs, real-time chat, video.
 
+- 🔭 Building at Tekion, building in public after hours
+- 🌱 Currently into distributed systems and real-time backends
+- 💬 Ask me about React, TypeScript, or system design
+
 [![Profile views](https://komarev.com/ghpvc/?username=jaiswalrobin&color=58A6FF&style=flat)](https://github.com/jaiswalrobin)
 [![X](https://img.shields.io/badge/X-@jaiswalrobin9-black?logo=x&logoColor=white)](https://x.com/jaiswalrobin9)
 [![Email](https://img.shields.io/badge/Email-jaiswalrobin6@gmail.com-red?logo=gmail&logoColor=white)](mailto:jaiswalrobin6@gmail.com)
@@ -16,6 +20,12 @@ like going deep into the systems behind them: APIs, real-time chat, video.
 ---
 
 ### 🛠️ What I work with
+
+<div align="center">
+
+[![Skills](https://skillicons.dev/icons?i=react,nextjs,ts,js,nodejs,express,nestjs,kafka,redis,postgres,docker,aws&theme=dark)](https://skillicons.dev)
+
+</div>
 
 ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white)
@@ -37,6 +47,18 @@ like going deep into the systems behind them: APIs, real-time chat, video.
 <img height="170" src="https://streak-stats.demolab.com?user=jaiswalrobin&theme=tokyonight&hide_border=true" alt="Contribution streak" />
 <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jaiswalrobin&theme=tokyonight" alt="GitHub stats" />
 <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jaiswalrobin&theme=tokyonight" alt="Repos per language" />
+
+</div>
+
+### 🐍 Contribution snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dist/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="dist/github-snake.svg" />
+  <img alt="Contribution snake" src="dist/github-snake-dark.svg" />
+</picture>
 
 </div>
 
