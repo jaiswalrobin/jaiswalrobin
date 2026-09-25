@@ -34,20 +34,17 @@ like going deep into the systems behind them: APIs, real-time chat, video.
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=jaiswalrobin&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaiswalrobin&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+<img height="170" src="https://streak-stats.demolab.com?user=jaiswalrobin&theme=tokyonight&hide_border=true" alt="Contribution streak" />
+<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jaiswalrobin&theme=tokyonight" alt="GitHub stats" />
+<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jaiswalrobin&theme=tokyonight" alt="Repos per language" />
 
 </div>
 
 ### 🚀 Featured work
 
-<div align="center">
-
-[![messaging-platform](https://github-readme-stats.vercel.app/api/pin/?username=jaiswalrobin&repo=messaging-platform&theme=tokyonight&hide_border=true)](https://github.com/jaiswalrobin/messaging-platform)
-[![video-stream](https://github-readme-stats.vercel.app/api/pin/?username=jaiswalrobin&repo=video-stream&theme=tokyonight&hide_border=true)](https://github.com/jaiswalrobin/video-stream)
-
-</div>
-
 - **[messaging-platform](https://github.com/jaiswalrobin/messaging-platform)** — WhatsApp-style chat backend: NestJS monorepo with Kafka, Cassandra, Redis, Postgres
+  <br>![stars](https://img.shields.io/github/stars/jaiswalrobin/messaging-platform?style=social) ![language](https://img.shields.io/github/languages/top/jaiswalrobin/messaging-platform)
 - **[video-stream](https://github.com/jaiswalrobin/video-stream)** — Upload-to-HLS video pipeline: Express + S3, SQS/ffmpeg worker, React player
+  <br>![stars](https://img.shields.io/github/stars/jaiswalrobin/video-stream?style=social) ![language](https://img.shields.io/github/languages/top/jaiswalrobin/video-stream)
 - **[anime-manager](https://github.com/jaiswalrobin/anime-manager)** + **[animeFrontend](https://github.com/jaiswalrobin/animeFrontend)** — Full-stack anime tracker: NestJS API with JWT auth + Next.js frontend
+  <br>![stars](https://img.shields.io/github/stars/jaiswalrobin/anime-manager?style=social) ![language](https://img.shields.io/github/languages/top/jaiswalrobin/anime-manager)
