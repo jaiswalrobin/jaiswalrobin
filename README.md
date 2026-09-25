@@ -13,4 +13,4 @@ React / Next.js · TypeScript · Node.js · NestJS · Kafka · Redis · PostgreS
 
 ### Reach me
 - X: [@jaiswalrobin9](https://x.com/jaiswalrobin9)
-- Email: jaiswalrobin9@gmail.com
+- Email: jaiswalrobin6@gmail.com
