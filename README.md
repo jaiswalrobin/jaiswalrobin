@@ -1,16 +1,53 @@
+<div align="center">
+
 # Hi, I'm Robin Jaiswal 👋
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Frontend+Engineer+(SDE-2)+%40+Tekion;React+%C2%B7+TypeScript+%C2%B7+Node.js;UIs+up+front,+systems+behind+them)](https://git.io/typing-svg)
 
 Frontend Engineer (SDE-2) at Tekion. I build user-facing web apps — and I
 like going deep into the systems behind them: APIs, real-time chat, video.
 
-### What I work with
-React / Next.js · TypeScript · Node.js · NestJS · Kafka · Redis · PostgreSQL · Cassandra · Docker · AWS (S3, SQS)
+[![Profile views](https://komarev.com/ghpvc/?username=jaiswalrobin&color=58A6FF&style=flat)](https://github.com/jaiswalrobin)
+[![X](https://img.shields.io/badge/X-@jaiswalrobin9-black?logo=x&logoColor=white)](https://x.com/jaiswalrobin9)
+[![Email](https://img.shields.io/badge/Email-jaiswalrobin6@gmail.com-red?logo=gmail&logoColor=white)](mailto:jaiswalrobin6@gmail.com)
 
-### Featured work
-- [messaging-platform](https://github.com/jaiswalrobin/messaging-platform) — WhatsApp-style chat backend: NestJS monorepo with Kafka, Cassandra, Redis, Postgres
-- [video-stream](https://github.com/jaiswalrobin/video-stream) — Upload-to-HLS video pipeline: Express + S3, SQS/ffmpeg worker, React player
-- [anime-manager](https://github.com/jaiswalrobin/anime-manager) + [animeFrontend](https://github.com/jaiswalrobin/animeFrontend) — Full-stack anime tracker: NestJS API with JWT auth + Next.js frontend
+</div>
 
-### Reach me
-- X: [@jaiswalrobin9](https://x.com/jaiswalrobin9)
-- Email: jaiswalrobin6@gmail.com
+---
+
+### 🛠️ What I work with
+
+![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-231F20?logo=apache-kafka&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
+![Cassandra](https://img.shields.io/badge/Cassandra-1287B1?logo=apache-cassandra&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white)
+
+### 📊 Stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=jaiswalrobin&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaiswalrobin&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+
+</div>
+
+### 🚀 Featured work
+
+<div align="center">
+
+[![messaging-platform](https://github-readme-stats.vercel.app/api/pin/?username=jaiswalrobin&repo=messaging-platform&theme=tokyonight&hide_border=true)](https://github.com/jaiswalrobin/messaging-platform)
+[![video-stream](https://github-readme-stats.vercel.app/api/pin/?username=jaiswalrobin&repo=video-stream&theme=tokyonight&hide_border=true)](https://github.com/jaiswalrobin/video-stream)
+
+</div>
+
+- **[messaging-platform](https://github.com/jaiswalrobin/messaging-platform)** — WhatsApp-style chat backend: NestJS monorepo with Kafka, Cassandra, Redis, Postgres
+- **[video-stream](https://github.com/jaiswalrobin/video-stream)** — Upload-to-HLS video pipeline: Express + S3, SQS/ffmpeg worker, React player
+- **[anime-manager](https://github.com/jaiswalrobin/anime-manager)** + **[animeFrontend](https://github.com/jaiswalrobin/animeFrontend)** — Full-stack anime tracker: NestJS API with JWT auth + Next.js frontend
